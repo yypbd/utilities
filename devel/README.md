@@ -22,11 +22,13 @@
 ### Windows
 - [Notepad++](http://notepad-plus-plus.org/)
 
+### MacOS
+- [HexFiend](https://github.com/HexFiend/HexFiend)
+
 
 ## Support
 
 ### Common
-- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - [Old Utilities](https://winworldpc.com/library/)
 
 ### Windows

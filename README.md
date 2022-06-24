@@ -48,6 +48,7 @@
 - [TreeSize](https://www.jam-software.com/treesize_free) 폴더 사이즈
 - [Everything Search Engine](https://www.voidtools.com/) 파일 검색
 - [다크네이머](https://m.clien.net/service/board/lecture/14771540) 파일이름 일괄 변경
+- [PowerToys](https://github.com/microsoft/PowerToys/releases)
 
 ### MacOS
 - [Alfred](https://www.alfredapp.com/)
