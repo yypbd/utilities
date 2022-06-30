@@ -25,6 +25,7 @@
 - [Total Commander](http://ghisler.com/), [plugins](http://totalcmd.net/)
 - [Cmder](https://cmder.net/)
 - [Ventoy](https://www.ventoy.net/en/download.html), [설명](https://www.clien.net/service/board/lecture/15774962) 부팅 USB
+- [winget](https://docs.microsoft.com/ko-kr/windows/package-manager/)
 
 ### MacOS
 - [Karabiner Elements](https://karabiner-elements.pqrs.org/)
@@ -133,6 +134,7 @@
 
 ### Common
 - [SD Card Formatter](https://www.sdcard.org/downloads/formatter_4/)
+- [btop](https://github.com/aristocratos/btop)
 
 ### Windows
 - [CPUID HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html)
@@ -146,3 +148,6 @@
 - [Chrome Tip](http://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=155818&s_no=155818&page=1)
 - [Chrome extension 추천](https://m.clien.net/service/board/park/14922944?type=recommend)
 - [Firefox extensions](https://addons.mozilla.org/ko/firefox/extensions/)
+
+### Windows
+- [한글 자소 교정기](https://namocom.tistory.com/630)

@@ -28,13 +28,12 @@
 
 ## Support
 
-### Common
-- [Old Utilities](https://winworldpc.com/library/)
-
 ### Windows
 - [DevToys](https://devtoys.app/)
 - [Windows System Control Center](http://www.kls-soft.com/wscc/index.php)
 - [Dependencies](https://github.com/lucasg/Dependencies)
+- [dependencywalker](https://www.dependencywalker.com/)
+- [Inno Setup](https://jrsoftware.org/isinfo.php)
 
 ### MacOS
 - [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner)
