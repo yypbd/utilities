@@ -15,7 +15,7 @@
 ## IDE
 
 ### Common
-- [VS Code](https://code.visualstudio.com/), [Recipes](https://github.com/microsoft/vscode-recipes), [PlantUML](https://www.clien.net/service/board/lecture/13218515)
+- [VS Code](https://code.visualstudio.com/), [Recipes](https://github.com/microsoft/vscode-recipes), [PlantUML](https://www.clien.net/service/board/lecture/13218515), [Extensions](https://marketplace.visualstudio.com/vscode)
 - [JetBrains Toolbox](https://www.jetbrains.com/ko-kr/toolbox-app/)
 - [Lazarus](https://www.lazarus-ide.org/)
 

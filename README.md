@@ -16,6 +16,7 @@
 
 ### Common
 - [Midnight Commander](http://midnight-commander.org/)
+- [Double Commander](https://doublecmd.sourceforge.io/site/eng/snapshots.php)
 - [list files](https://github.com/gokcehan/lf) Terminal file manager
 - [FreeFileSync](http://www.freefilesync.org/download.php) 파일 동기화
 
