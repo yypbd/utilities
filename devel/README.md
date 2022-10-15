@@ -67,6 +67,9 @@
 - [Figma](https://www.figma.com)
 - [AdobeXD](https://www.adobe.com/kr/products/xd.html)
 - [Zeplin](https://zeplin.io/)
+- [Penpot](https://penpot.app/)
+- [Google fonts](https://fonts.google.com)
+- [Microsoft Fluentui Emoji](https://github.com/microsoft/fluentui-emoji)
 
 ### MacOS
 - [Asset Catalog Creator](https://www.bridgetech.io/Asset%20Catalog%20Creator.html)

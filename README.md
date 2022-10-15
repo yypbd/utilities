@@ -39,6 +39,7 @@
 - [Hidden Bar](https://github.com/dwarvesf/hidden)
 - [Flycut](https://github.com/TermiT/Flycut)
 - [Sensible Side Buttons](https://sensible-side-buttons.archagon.net/)
+- [CheatSheet](https://www.mediaatelier.com/CheatSheet/)
 
 
 ## Productivity
@@ -143,6 +144,9 @@
 ### Windows
 - [CPUID HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html)
 - [WinCDEmu](http://wincdemu.sysprogs.org/)
+
+### MacOS
+- [Stats](https://github.com/exelban/stats)
 
 
 ## ETCs
