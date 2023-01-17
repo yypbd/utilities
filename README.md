@@ -19,6 +19,7 @@
 - [Double Commander](https://doublecmd.sourceforge.io/site/eng/snapshots.php)
 - [list files](https://github.com/gokcehan/lf) Terminal file manager
 - [FreeFileSync](http://www.freefilesync.org/download.php) 파일 동기화
+- [syncthing](https://syncthing.net/)
 
 ### Windows
 - [Open Shell](https://www.majorgeeks.com/files/details/classic_start.html) fork from [Classic Shell](http://www.classicshell.net/) 
@@ -41,7 +42,9 @@
 - [Sensible Side Buttons](https://sensible-side-buttons.archagon.net/)
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/)
 - [OnyX](https://www.titanium-software.fr/en/onyx.html) 
-
+- [AltTab](https://alt-tab-macos.netlify.app/) 
+- [amethyst](https://ianyh.com/amethyst/)
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
 
 ## Productivity
 
@@ -59,6 +62,7 @@
 - [Raycast](https://www.raycast.com/)
 - [Be Focused](https://apps.apple.com/us/app/be-focused-focus-timer/id973134470?mt=12) 뽀모도르 타이머
 - [Itsycal](https://www.mowglii.com/itsycal/)
+- [Obsidian](https://obsidian.md/)
 
 
 ## Screen Capture
@@ -148,7 +152,7 @@
 
 ### MacOS
 - [Stats](https://github.com/exelban/stats)
-
+- [Disk Inventory X](https://www.derlien.com/index.html)
 
 ## ETCs
 
