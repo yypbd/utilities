@@ -122,6 +122,7 @@
 
 ### Common
 - [barrier](https://github.com/debauchee/barrier)
+- [scrcpy](https://github.com/Genymobile/scrcpy) : Android 미러링 유틸리티
 
 ### Windows
 - [RDP Wrapper](https://github.com/stascorp/rdpwrap/)
