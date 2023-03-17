@@ -40,11 +40,12 @@
 - [Hidden Bar](https://github.com/dwarvesf/hidden)
 - [Flycut](https://github.com/TermiT/Flycut)
 - [Sensible Side Buttons](https://sensible-side-buttons.archagon.net/)
-- [CheatSheet](https://www.mediaatelier.com/CheatSheet/)
-- [OnyX](https://www.titanium-software.fr/en/onyx.html) 
+- [CheatSheet](https://www.mediaatelier.com/CheatSheet/) : Cmd 단축키 확인
+- [OnyX](https://www.titanium-software.fr/en/onyx.html) : 시스템 파일 구조 확인
 - [AltTab](https://alt-tab-macos.netlify.app/) 
-- [amethyst](https://ianyh.com/amethyst/)
-- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
+- [amethyst](https://ianyh.com/amethyst/) : 윈도우 매니저
+- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) : 자동화 도구
+- [Sloth](https://github.com/sveinbjornt/Sloth) : 프로세스가 사용하는 파일, 디렉토리, 소켓, 파이프, 장치 표시
 
 ## Productivity
 
