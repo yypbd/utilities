@@ -63,7 +63,7 @@
 - [Itsycal](https://www.mowglii.com/itsycal/) - 달력
 - [Obsidian](https://obsidian.md/) - Markdown editor
 - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - 자동화 도구
-
+- [Dropzone](https://aptonic.com/) - 파일 관리 앱
 
 ## Utility
 
