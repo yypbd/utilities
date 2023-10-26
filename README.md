@@ -43,6 +43,7 @@
 - [AltTab](https://alt-tab-macos.netlify.app/) - Windows와 같은 alt tab 화면 표시
 - [amethyst](https://ianyh.com/amethyst/) - 윈도우 정렬 매니저
 - [Sloth](https://github.com/sveinbjornt/Sloth) - 프로세스가 사용하는 파일, 디렉토리, 소켓, 파이프, 장치 표시
+- [Latest](https://max.codes/latest/) - 업데이트 체크
 
 
 ## Productivity
@@ -105,6 +106,7 @@
 #### Common
 - [barrier](https://github.com/debauchee/barrier) - SW KVM like Synergy
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Android 미러링 유틸리티
+- [X2Go](https://wiki.x2go.org/doku.php) - 
 
 #### Windows
 - [RDP Wrapper](https://github.com/stascorp/rdpwrap/) - RDP 활성화
@@ -158,6 +160,8 @@
 - [SteelSeries ExactMouse Tool](https://downloads.steelseriescdn.com/drivers/tools/steelseries-exactmouse-tool.dmg) - 마우스 가속 제거
 - [Sensible Side Buttons](https://sensible-side-buttons.archagon.net/) - 마우스 추가 버튼 제어
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - 오디오 제어 유틸리티
+- [Aldente](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - 배터리 충전 제한
+- [Battery](https://github.com/actuallymentor/battery) M1 배터리 충전 제한
 
 ## ETCs
 
