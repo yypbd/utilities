@@ -22,6 +22,7 @@
 
 ### Windows
 - [Notepad++](http://notepad-plus-plus.org/)
+- [HxD - Freeware Hex Editor and Disk Editor](https://mh-nexus.de/en/hxd/)
 
 ### MacOS
 - [HexFiend](https://github.com/HexFiend/HexFiend)
