@@ -132,3 +132,8 @@
 - [ZSH Theme Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [ls alias](https://www.clien.net/service/board/cm_mac/17148792?od=T31&po=1&category=0&groupCd=)
 
+### Java Decompiler
+- [JD-GUI](https://github.com/java-decompiler/jd-gui)
+- [JD-GUI on m1](https://github.com/g1a55er/jd-gui/commit/5e743011a932b287428dd6451e08637df2f3d9fc)
+
+
