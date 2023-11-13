@@ -22,6 +22,10 @@
 - [list files](https://github.com/gokcehan/lf) - Terminal file manager
 - [FreeFileSync](http://www.freefilesync.org/download.php) - 파일 동기화
 - [syncthing](https://syncthing.net/) - 파일 동기화
+- tmux
+  - [tmux](https://github.com/tmux/tmux) - terminal multiplexer
+  - [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
+  - [plugins](https://github.com/tmux-plugins/list)
 
 ### Windows
 - [Open Shell](https://www.majorgeeks.com/files/details/classic_start.html) - 윈도우 시작메뉴 대체
