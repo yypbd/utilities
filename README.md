@@ -35,6 +35,7 @@
 - [Cmder](https://cmder.app/) - Console emulator
 - [Ventoy](https://www.ventoy.net/en/download.html) - 부팅 USB 생성, [설명](https://www.clien.net/service/board/lecture/15774962)
 - [winget](https://docs.microsoft.com/ko-kr/windows/package-manager/) - Package manager
+- [Drop It](http://www.dropitproject.com/) - 파일 관리
 
 ### MacOS
 - [Commander One](https://mac.eltima.com/ko/file-manager.html) - File manager
