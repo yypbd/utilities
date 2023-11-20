@@ -160,6 +160,7 @@
 - Karabiner
   - [Karabiner Elements](https://karabiner-elements.pqrs.org/) - 키보드 커스터마이즈
   - [한영전환 샘플](https://www.clien.net/service/board/cm_mac/17452791?od=T31&po=0&category=0&groupCd=)
+- [shortcat](https://shortcat.app/) - 키보드로 마우스 제어
 - [Stats](https://github.com/exelban/stats) - 시스템 상태 표시
 - [Disk Inventory X](https://www.derlien.com/index.html) - 디스크 상세
 - [Monitor Control](https://github.com/MonitorControl/MonitorControl) - 모니터 설정
