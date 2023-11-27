@@ -25,6 +25,7 @@
 - [HxD - Freeware Hex Editor and Disk Editor](https://mh-nexus.de/en/hxd/)
 
 ### MacOS
+- [xcodes.app](https://github.com/XcodesOrg/XcodesApp)
 - [HexFiend](https://github.com/HexFiend/HexFiend)
 - [DevCleaner for Xcode](https://github.com/vashpan/xcode-dev-cleaner)
 
