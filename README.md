@@ -125,6 +125,7 @@
 ### Common
 - [VLC media player](https://www.videolan.org/vlc/) - Video player
 - [foobar2000](https://www.foobar2000.org/download) - Music player
+- [FreeTube](https://freetubeapp.io/) - YouTube Player
 
 ### Windows
 - [Media Player Classic - BE](https://sourceforge.net/projects/mpcbe/) - Video player
