@@ -105,6 +105,10 @@
 
 #### Windows
 - [WakeOnLan](https://github.com/basildane/WakeOnLAN) - WOL
+- IPBan - fail2ban과 비슷한 유틸리티. Windows&Linux 지원
+  - [IPBan](https://github.com/DigitalRuby/IPBan) - IPBan
+  - [설정 가이드](https://memonote.tistory.com/2)
+  - [설정 가이드](https://www.clien.net/service/board/lecture/14928379)
 
 ### Remote Desktop
 
