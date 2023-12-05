@@ -82,7 +82,8 @@
 #### MacOS
 - [Kap](https://getkap.co/) - Screen Recording
 - [Flameshot](https://flameshot.org/)
-- [Fuwari](https://fuwari-app.com/) - 스크린 캡쳐해서 별도의 창으로 띄움
+- [Fuwari](https://fuwari-app.com/) - 스크린 캡쳐해서 별도의 창으로 실행
+- [Shottr](https://shottr.cc/) - 스크린 캡쳐해서 별도의 창으로 실행
 
 ### Image
 
