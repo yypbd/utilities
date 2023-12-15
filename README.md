@@ -58,7 +58,9 @@
 - [AutoIt](https://www.autoitscript.com/site/autoit/downloads/) - 매크로
 - [GMacro](http://www.gmacro.er.ro/) - 매크로
 - [TreeSize](https://www.jam-software.com/treesize_free) - 폴더 사이즈
-- [Everything Search Engine](https://www.voidtools.com/) - 파일 검색
+- Everything
+  - [Everything Search Engine](https://www.voidtools.com/) - 파일 검색
+  - [초간단 SOHO용 파일서버 구축하기 (feat Everything)](https://www.clien.net/service/board/lecture/16068207?po=0&sk=id&sv=cookyman&groupCd=&pt=0)
 - [다크네이머](https://m.clien.net/service/board/lecture/14771540) - 파일이름 일괄 변경
 - [PowerToys](https://github.com/microsoft/PowerToys/releases)
 
