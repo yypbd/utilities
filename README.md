@@ -135,7 +135,11 @@
 - [FreeTube](https://freetubeapp.io/) - YouTube Player
 
 ### Windows
-- [Media Player Classic - BE](https://sourceforge.net/projects/mpcbe/) - Video player
+- 동영상 플레이어
+  - [Media Player Classic - BE](https://sourceforge.net/projects/mpcbe/) - Video player
+  - [PotPlayer](https://tv.kakao.com/guide/potplayer)
+  - [SMPlayer](https://www.smplayer.info/)
+  - [KMPlayer](https://apps.kde.org/kmplayer/)
 - [Mp3tag](http://www.mp3tag.de/en/) - mp3 태그 편집
 - [FxSound](https://www.fxsound.com/) - 저음, 음질 부스트
 
