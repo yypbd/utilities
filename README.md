@@ -123,6 +123,7 @@
 #### Windows
 - [RDP Wrapper](https://github.com/stascorp/rdpwrap/) - RDP 활성화
 - [Microsoft Garage Mouse without Borders](https://www.microsoft.com/en-us/download/details.aspx?id=35460) - SW KVM like Synergy
+
 #### MacOS
 - [Microsoft Remote Desktop](https://apps.apple.com/kr/app/microsoft-remote-desktop/id1295203466?mt=12)
 
@@ -139,7 +140,6 @@
   - [Media Player Classic - BE](https://sourceforge.net/projects/mpcbe/) - Video player
   - [PotPlayer](https://tv.kakao.com/guide/potplayer)
   - [SMPlayer](https://www.smplayer.info/)
-  - [KMPlayer](https://apps.kde.org/kmplayer/)
 - [Mp3tag](http://www.mp3tag.de/en/) - mp3 태그 편집
 - [FxSound](https://www.fxsound.com/) - 저음, 음질 부스트
 
@@ -147,6 +147,8 @@
 - [IINA](https://iina.io/) - Video player
 - [Elmedia Video Player](https://www.elmedia-video-player.com/) - Video player
 
+### Linux
+- [KMPlayer](https://apps.kde.org/kmplayer/)
 
 ## Malware Remover
 
