@@ -41,6 +41,7 @@
 ### MacOS
 - [Commander One](https://mac.eltima.com/ko/file-manager.html) - File manager
 - [iTerm2](https://iterm2.com/) - Terminal
+- [tabby](https://tabby.sh/) - Terminal
 - [Rectangle](https://rectangleapp.com/) - 창크기 조절
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - 메뉴바 항목 숨기기
 - [Flycut](https://github.com/TermiT/Flycut) - 클립보드 매니저
