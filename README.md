@@ -28,17 +28,19 @@
   - [plugins](https://github.com/tmux-plugins/list)
 
 ### Windows
+- [chocolatey](https://chocolatey.org/) - Package manager
+- [winget](https://docs.microsoft.com/ko-kr/windows/package-manager/) - Package manager
 - [Open Shell](https://www.majorgeeks.com/files/details/classic_start.html) - 윈도우 시작메뉴 대체
 - [RocketDock](http://rocketdock.com/) - 윈도우용 Dock
 - [Total Commander](http://ghisler.com/) - File manager.
 - [Total Commanger plugins](http://totalcmd.net/) - Total Commmander 플러그인
 - [Cmder](https://cmder.app/) - Console emulator
 - [Ventoy](https://www.ventoy.net/en/download.html) - 부팅 USB 생성, [설명](https://www.clien.net/service/board/lecture/15774962)
-- [winget](https://docs.microsoft.com/ko-kr/windows/package-manager/) - Package manager
 - [Drop It](http://www.dropitproject.com/) - 파일 관리
 - [Explorer Patcher](https://github.com/valinet/ExplorerPatcher/)
 
 ### MacOS
+- [brew](https://brew.sh/) - Package manager
 - [Commander One](https://mac.eltima.com/ko/file-manager.html) - File manager
 - [iTerm2](https://iterm2.com/) - Terminal
 - [tabby](https://tabby.sh/) - Terminal
