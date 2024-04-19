@@ -38,6 +38,7 @@
 - [Ventoy](https://www.ventoy.net/en/download.html) - 부팅 USB 생성, [설명](https://www.clien.net/service/board/lecture/15774962)
 - [Drop It](http://www.dropitproject.com/) - 파일 관리
 - [Explorer Patcher](https://github.com/valinet/ExplorerPatcher/)
+- [Microsoft Visual C++ 재배포 가능 패키지](https://learn.microsoft.com/ko-kr/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
 ### MacOS
 - [brew](https://brew.sh/) - Package manager
