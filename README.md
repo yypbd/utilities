@@ -39,6 +39,7 @@
 - [Drop It](http://www.dropitproject.com/) - 파일 관리
 - [Explorer Patcher](https://github.com/valinet/ExplorerPatcher/)
 - [Microsoft Visual C++ 재배포 가능 패키지](https://learn.microsoft.com/ko-kr/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+- [Sandboxie Plus](https://sandboxie-plus.com/)
 
 ### MacOS
 - [brew](https://brew.sh/) - Package manager
@@ -121,7 +122,8 @@
 
 #### Common
 - [barrier](https://github.com/debauchee/barrier) - SW KVM like Synergy
-- [scrcpy](https://github.com/Genymobile/scrcpy) - Android 미러링 유틸리티
+- [scrcpy](https://github.com/Genymobile/scrcpy) - Android Remote
+- [AnLink](https://anl.ink/) - Android Remote
 - [X2Go](https://wiki.x2go.org/doku.php) - 
 
 #### Windows
@@ -172,7 +174,10 @@
 
 ### Windows
 - [CPUID HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - 하드웨어 모니터
+- [CPUID CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+- [HWiNFO](https://www.hwinfo.com/)
 - [WinCDEmu](http://wincdemu.sysprogs.org/) - Optical Drive emulator
+- [Fan Control](https://github.com/Rem0o/FanControl.Releases)
 
 ### MacOS
 - Karabiner
