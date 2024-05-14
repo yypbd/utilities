@@ -178,6 +178,8 @@
 - [HWiNFO](https://www.hwinfo.com/)
 - [WinCDEmu](http://wincdemu.sysprogs.org/) - Optical Drive emulator
 - [Fan Control](https://github.com/Rem0o/FanControl.Releases)
+- [Hasleo Disk Clone](https://www.easyuefi.com/disk-clone/disk-clone-home.html)
+- [Hasleo WinToUSB](https://www.easyuefi.com/wintousb/index.html)
 
 ### MacOS
 - Karabiner
