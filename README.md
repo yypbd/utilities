@@ -171,6 +171,7 @@
 ### Common
 - [SD Card Formatter](https://www.sdcard.org/downloads/formatter_4/) - SDCard 포맷 유틸리티
 - [btop](https://github.com/aristocratos/btop) - 시스템 상태 표시
+- [Etcher](https://etcher.balena.io/#download-etcher) - Flash OS images to SDCard
 
 ### Windows
 - [CPUID HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - 하드웨어 모니터
