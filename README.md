@@ -177,6 +177,7 @@
 - [CPUID CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 - [HWiNFO](https://www.hwinfo.com/)
 - [WinCDEmu](http://wincdemu.sysprogs.org/) - Optical Drive emulator
+- [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html) - Mount disk images
 - [Fan Control](https://github.com/Rem0o/FanControl.Releases)
 - [Hasleo Disk Clone](https://www.easyuefi.com/disk-clone/disk-clone-home.html)
 - [Hasleo WinToUSB](https://www.easyuefi.com/wintousb/index.html)
