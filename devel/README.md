@@ -36,6 +36,7 @@
 
 ### Windows
 
+- [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 - [DevToys](https://devtoys.app/)
 - [Windows System Control Center](http://www.kls-soft.com/wscc/index.php)
 - [Dependencies](https://github.com/lucasg/Dependencies)
