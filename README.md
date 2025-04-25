@@ -208,5 +208,6 @@
 
 ### Windows
 - [한글 자소 교정기](https://namocom.tistory.com/630)
+- [Windows Update Blocker](https://www.sordum.org/downloads/?st-windows-update-blocker)
 
 ### MacOS
