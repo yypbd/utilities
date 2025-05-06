@@ -13,7 +13,10 @@
 ## Emulator
 
 ### Common
+
 - [RetroArch](https://www.retroarch.com/)
+- [ES-DE Frontend](https://es-de.org/)
+- [LaunchBox](https://www.launchbox-app.com/)
 - [Citra](https://citra-emu.org/) 3ds emulator
 
 ### MacOS
