@@ -1,19 +1,5 @@
 # Utilities
 
-## TOC
-1. [Shell](#shell)
-1. [Productivity](#productivity)
-1. [Utility](#utility)
-    - [Screen Capture](#screen-capture)
-    - [Image](#image)
-    - [Compress](#compress)
-    - [Network](#network)
-    - [Remote Desktop](#remote-desktop)
-1. [Multimedia](#multimedia)
-1. [Malware Remover](#malware-remover)
-1. [HW](#hw)
-1. [ETCs](#etcs)
-
 ## Shell
 
 ### Common
