@@ -164,6 +164,7 @@
 
 ### Windows
 
+- [Microsoft PC Manager](https://pcmanager.microsoft.com/ko-kr) - Microsoft PC Manager
 - [구라제거기](https://teus.me/) - 악성 보안 프로그램 제거
 - [오늘의유머 - 무료 악성코드, 광고팝업창 제거 프로그램](http://m.todayhumor.co.kr/view.php?table=bestofbest&no=207584)
 
@@ -178,6 +179,7 @@
 - [SD Card Formatter](https://www.sdcard.org/downloads/formatter_4/) - SDCard 포맷 유틸리티
 - [btop](https://github.com/aristocratos/btop) - 시스템 상태 표시
 - [Etcher](https://etcher.balena.io/#download-etcher) - Flash OS images to SDCard
+- [Chroma-4.4.4 샘플이미지](https://www.rtings.com/images/test-materials/2017/chroma-444.png)
 
 ### Windows
 
