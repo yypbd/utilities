@@ -44,3 +44,4 @@
 - [crontab guru](https://crontab.guru/)
 - [archives](https://archive.org/details/softwarelibrary_msdos_games), [오유 설명](http://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=424227&s_no=424227&page=1)
 - [Old Utilities](https://winworldpc.com/library/)
+- [cidr](https://www.ipaddressguide.com/cidr)
