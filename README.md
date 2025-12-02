@@ -44,6 +44,7 @@
 - [amethyst](https://ianyh.com/amethyst/) - 윈도우 정렬 매니저
 - [Sloth](https://github.com/sveinbjornt/Sloth) - 프로세스가 사용하는 파일, 디렉토리, 소켓, 파이프, 장치 표시
 - [Latest](https://max.codes/latest/) - 업데이트 체크
+- [Stay](https://cordlessdog.com/stay/) - 창 위치 고정
 
 ## Productivity
 
