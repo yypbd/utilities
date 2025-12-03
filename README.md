@@ -37,6 +37,7 @@
 - [tabby](https://tabby.sh/) - Terminal
 - [Rectangle](https://rectangleapp.com/) - 창크기 조절
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - 메뉴바 항목 숨기기
+- [Ice](https://github.com/jordanbaird/Ice) - 메뉴바 관리
 - [Flycut](https://github.com/TermiT/Flycut) - 클립보드 매니저
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - Cmd 단축키 확인
 - [OnyX](https://www.titanium-software.fr/en/onyx.html) - 시스템 파일 구조 확인
