@@ -13,6 +13,7 @@
   - [tmux](https://github.com/tmux/tmux) - terminal multiplexer
   - [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
   - [plugins](https://github.com/tmux-plugins/list)
+- [zellij](https://github.com/zellij-org/zellij) - zellij
 
 ### Windows
 
