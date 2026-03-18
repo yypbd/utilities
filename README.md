@@ -209,7 +209,8 @@
 - [Sensible Side Buttons](https://sensible-side-buttons.archagon.net/) - 마우스 추가 버튼 제어
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - 오디오 제어 유틸리티
 - [Aldente](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - 배터리 충전 제한
-- [Battery](https://github.com/actuallymentor/battery) M1 배터리 충전 제한
+- [Battery](https://github.com/actuallymentor/battery) - M1 배터리 충전 제한
+- [Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix) - 마우스 버튼 기능 설정
 
 ## ETCs
 
