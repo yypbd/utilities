@@ -61,6 +61,7 @@
   - [초간단 SOHO용 파일서버 구축하기 (feat Everything)](https://www.clien.net/service/board/lecture/16068207?po=0&sk=id&sv=cookyman&groupCd=&pt=0)
 - [다크네이머](https://m.clien.net/service/board/lecture/14771540) - 파일이름 일괄 변경
 - [PowerToys](https://github.com/microsoft/PowerToys/releases)
+- [ZoomIt](https://learn.microsoft.com/ko-kr/sysinternals/downloads/zoomit) - 확대
 
 ### MacOS
 
@@ -80,6 +81,7 @@
 
 - [픽픽](https://picpick.app/ko/)
 - [Greenshot](https://getgreenshot.org/), [설명](https://www.clien.net/service/board/lecture/16055643?type=recommend)
+- [Snipaste](https://www.snipaste.com)
 
 #### MacOS
 
@@ -194,6 +196,7 @@
 - [Fan Control](https://github.com/Rem0o/FanControl.Releases)
 - [Hasleo Disk Clone](https://www.easyuefi.com/disk-clone/disk-clone-home.html)
 - [Hasleo WinToUSB](https://www.easyuefi.com/wintousb/index.html)
+- [Monitorian](https://github.com/emoacht/monitorian) - 모니터 밝기 조절
 
 ### MacOS
 
